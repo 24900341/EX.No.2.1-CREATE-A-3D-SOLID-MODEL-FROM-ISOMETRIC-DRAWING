@@ -1,11 +1,11 @@
 # EX.No.2.1  CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
 
-## AIM
-To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
-
 NAME: MOHAMED NZAMUDDIN A
 
 REG NO: 212224040194
+
+## AIM
+To create a 3Dmodel from the given isometric drawing using fusion 360 tool. 
 
 ## REQUIREMENTS
 1. Autodesk fusion 360
